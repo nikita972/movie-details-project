@@ -1,0 +1,29 @@
+
+th{
+	font-size:18px;
+}
+.search-btn
+{
+	width:30%;
+	height:50px;
+	border:2px;
+	background-color:forestgreen;
+	color:white;
+	font-size:25px;
+	margin-left:20%;
+	margin-top:20px;
+	margin-bottom:20px;
+}
+.txt-box
+{
+	padding:5px;
+}
+.table-class{
+	background-color: aliceblue;
+	margin-top:70px;
+	margin-right:50px;
+	margin-left:90px;
+	width:70%;
+	padding:8px;
+}
+
